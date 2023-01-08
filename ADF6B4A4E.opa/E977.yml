@@ -1,0 +1,27 @@
+segment_sources:
+  I17A16122:
+    type: origin_type
+    relation: translation
+    base: 0C01
+    lang: en
+  I0942A66E:
+    type: origin_type
+    relation: translation
+    base: 1BBB
+    lang: bo
+segment_pairs:
+  0926f0d71a044e4b939348693be3f549:
+    I17A16122: d92e72d9a3774033b1c6526d3aca9ba4
+    I0942A66E: cfd63eb5a3404f8d9a24f19e41210455
+  059745e43da04a09bad256c44644df99:
+    I17A16122: b3963dc7a45c45f5a647f4d0fc0ee735
+    I0942A66E: 00284f95c974440f8ec5f75c9854b36b
+  dd01589a20354b4f895b299d4a5fb6d2:
+    I17A16122: 39d26cb5090447b89f07e649c06c3dff
+    I0942A66E: 4643821cd0df480b8a5a818c2557db29
+  23b68c1d7f0a44d8b3cffe14d4600ee5:
+    I17A16122: eadf65a33596425b89f7578e61c2496e
+    I0942A66E: 63f795991078485d84c95f69036553c1
+  93f43d16792c483395ecbd217707b836:
+    I17A16122: e8fe98b997ae430db57cf6ae4ea33620
+    I0942A66E: f3f4eb148a2240d3b34c3bc2100d6d4a
